@@ -1,0 +1,12 @@
+{
+  "name": "Fusion Software",
+  "description": "Decision tools for people who think before they act.",
+  "plugins": [
+    {
+      "id": "decision-council",
+      "name": "Decision Council",
+      "description": "AI advisory panel for decisions that matter.",
+      "repo": "fusion-software-ltd/decision-council"
+    }
+  ]
+}
